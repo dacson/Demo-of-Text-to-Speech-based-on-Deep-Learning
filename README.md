@@ -1,6 +1,11 @@
 # Demo-of-Text-to-Speech-based-on-Deep-Learning
 start of art text to speech for  mandarin.
 
+Contributor:
+auzxb, dacson, donghaiyw, huangjx
+
+
+
 Reference:
 
 Tacotron: Towards End-to-End Speech Synthesis
