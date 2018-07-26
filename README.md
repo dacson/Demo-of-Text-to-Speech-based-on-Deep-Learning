@@ -2,9 +2,9 @@
 start of art text to speech for  mandarin.
 
 Contributor:
-auzxb, dacson, donghaiyw, huangjx
+dacson@126.com, auzxb, donghaiyw, huangjx
 
-
+updating....
 
 Reference:
 
